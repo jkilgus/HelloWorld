@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Hello World</string>
-    <string name="main_text">This is in strings.xml</string>
+    <string name="main_text">This is a change to check github integration.</string>
 </resources>
